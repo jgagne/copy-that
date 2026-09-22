@@ -313,7 +313,7 @@ HTML + JavaScript + server-side code + HTML + JavaScript + …
 
 <!-- _class: visual -->
 
-![h:640 Dense source code with HTML, JavaScript, and server-side code intermingled and difficult to distinguish.](img/tag-soup.png)
+![h:600 Dense source code with HTML, JavaScript, and server-side code intermingled and difficult to distinguish.](img/tag-soup.png)
 
 <small><cite>[Web Development as Tag Soup](https://blog.codinghorror.com/web-development-as-tag-soup/), Jeff Atwood, 2008</cite></small>
 
