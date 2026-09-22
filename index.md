@@ -231,7 +231,7 @@ Both borrowed from machines. Both arrived with the job.
 
 > How the model behaves is really a function of what kind of things it was exposed to.
 >
-> — Sean Goedecke (GitHub), <cite>[Why AI loves em dashes, with Sean Goedecke](https://www.quickanddirtytips.com/transcripts/grammar-girl/e1157/), Grammar Girl, 2026</cite>
+> — Sean Goedecke (GitHub), <cite>[Why AI loves em dashes](https://www.quickanddirtytips.com/transcripts/grammar-girl/e1157/), Grammar Girl, 2026</cite>
 
 ---
 
@@ -295,7 +295,7 @@ What happens when we don’t?
 
 > An LLM paragraph will register to much of your audience not as writing but as output.
 >
-> — <cite>[A Final Ward](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/), 2026</cite>
+> — <cite>[How To Write With An LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/), A Final Ward, 2026</cite>
 
 ---
 
