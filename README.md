@@ -18,8 +18,8 @@ npx @marp-team/marp-cli index.md -o index.html --allow-local-files
 
 ## Resources
 
-- [resources.md](resources.md)
-- [graveyard.md](graveyard.md)
+- [Readings and tools](resources.md)
+- [Graveyard](graveyard.md)
 
 Built with [Marp](https://marp.app).
 
