@@ -13,7 +13,9 @@
 
 ## More Reading
 
-- Scott Kubie, *Writing for Designers* (2021)
+- Michael J. Metts & Andy Welfle, [Writing for Designers](https://rosenfeldmedia.com/books/writing-is-designing/) (2021)
+  - See also: [Writing is designing](https://adobe.design/ideas/writing-is-designing) (review)
+- Scott Kubie, [Writing for Designers](https://kubie.co/wfd/) (2018)
 - Keyana Sapp, [On Quality](https://www.worseonpurpose.com/p/on-quality) (2026)
 - José Torre, [A Sharp Tool Can Still Ruin the Cut](https://www.doc.cc/articles/a-sharp-tool-can-still-ruin-the-cut) (DOC, 2026)
 - Anthropic, [Claude App Store description](https://apps.apple.com/us/app/claude/id6473753684) (2026)
