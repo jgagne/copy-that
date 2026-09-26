@@ -1,6 +1,6 @@
 # Resources
 
-## Reading
+## Readings
 
 - Nicole Fenton, <cite>[Words as Material](https://www.nicolefenton.com/words-as-material/)</cite> (2015)
 - George Orwell, <cite>[Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)</cite> (1946)
